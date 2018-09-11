@@ -162,6 +162,11 @@ Prefab:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114195353383765838, guid: 0e836c2c2dc5e2e41b86361f01599f81,
+        type: 2}
+      propertyPath: changeToChangeDirections
+      value: 0.02
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0e836c2c2dc5e2e41b86361f01599f81, type: 2}
   m_IsPrefabParent: 0
