@@ -35,7 +35,7 @@ public class Basket : MonoBehaviour
         {
             Destroy(collidedWith);
             int score = int.Parse(scoreGT.text);
-            score += 25;
+            score += 100;
             scoreGT.text = score.ToString();
 
             if (score > HighScore.score)
